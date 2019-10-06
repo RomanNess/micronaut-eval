@@ -14,7 +14,8 @@ The focus is to evaluate if ...
     - works out-of-the-box with Jackson
 - [x] logging 
     - works out-of-the-box with logback
-- [ ] assertj assertions
+- [x] assertj assertions
+    - newest version works
 - [ ] lombok
 - [ ] more requirements tbd
 
